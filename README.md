@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I´m Alison Maciel 👋
 
-<!--
-**AlisonMaciel/AlisonMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### About 
 
-Here are some ideas to get you started:
+I´m a Web Develpper, And, I´m studying web development at [Rocketseat] (https://www.rocketseat.com.br/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Current stack
+
+- ⚡ Main language: Javascript
+- 📡 Backend: Nodejs
+- 🎉 Front-end: HTML5, CSS3, Reactjs, Javascript
+- 🎨 Layout Design: Figma
+- 📦 Version code control: Git e GitHub
+- 🔨 Tolls: VsCode, Markdown
+- 🌎 I´m mostly active within the Rocketseat Community
+
+##### Contacts
+
+- ✉️ Email: alisonbetini27@gmail.com
+- Linkedin: https://www.linkedin.com/in/alison-betini-334807199/
+
+
+
