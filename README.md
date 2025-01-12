@@ -8,7 +8,8 @@ I´m a Web Develpper, And, I´m studying web development at [Rocketseat] (https:
 
 - ⚡ Main language: Javascript
 - 📡 Backend: Nodejs
-- 🎉 Front-end: HTML5, CSS3, Reactjs, Javascript
+- 🎉 Front-end: HTML5, CSS3, React.js, Javascript
+- 🎉 Back-end: Node.js, Knex.js, SQL
 - 🎨 Layout Design: Figma
 - 📦 Version code control: Git e GitHub
 - 🔨 Tolls: VsCode, Markdown
