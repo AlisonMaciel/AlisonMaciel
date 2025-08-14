@@ -3,18 +3,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo+ao+meu+perfil" alt="Typing SVG" /></a>
 </div>
 
-- 🔭 Atualmente sou um intusiasta no ecossistema front-end em constante evolução
-- 🌱 Aprofundando meus conhecimentos em NextJS
+- 🔭 Atualmente sou um entusiasta no ecossistema front-end em constante evolução
+- 🌱 Aprofundando meus conhecimentos em Next.js
 - 📫 Entre em contato comigo: alisonbetini27@gmail.com
-- 😄 Pronomes: Ele/Dele
-<div style="flex">
+
+<p>
+Sou um desenvolvedor com foco em tecnologias modernas como ReactJS, TypeScript, JavaScript, Vite, Bibliotecas (Shadcn/UI | Recharts | Radix/UI) Styled-Components, Taiwilnd, CSS Modules. Tenho experiência prática em projetos full stack, mas meu principal objetivo hoje é me especializar no ecossistema front-end, explorando profundamente Next.js, UI interativa e performance.
+</p>
+
+<div style="flex" align="center">
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlisonMaciel&theme=shadow_blue&show_icons=true" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonMaciel&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&locale=pt-br" />  
 </div>
 
 <br>
 
-<div>
+<div align="center">
   <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
