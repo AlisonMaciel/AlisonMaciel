@@ -1,16 +1,45 @@
-## Hi there 👋
+## Olá, eu sou Alison 👋
 
-<!--
-**AlisonMaciel/AlisonMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente sou um intusiasta no ecossistema front-end em constante evolução
+- 🌱 Aprofundando meus conhecimentos em NextJS
+- 📫 Entre em contato comigo: alisonbetini27@gmail.com
+- 😄 Pronomes: Ele/Dele
+<div style="flex">
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_blue&show_icons=true" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonMaciel&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />  
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" />
+  <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
+
+## 📬 Contato
+
+<div>
+  <a href="mailto:alisonbetini27@gmail.com" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://wa.me/5519989760135" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/alison-betini-334807199/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/AlisonMaciel" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
