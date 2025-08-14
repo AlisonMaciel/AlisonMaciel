@@ -43,6 +43,8 @@
     <img height="30" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlisonMaciel/AlisonMaciel/output/github-contribution-grid-snake.svg?v=1" alt="snake animation">
+</div>
 
-![Snake animation](https://raw.githubusercontent.com/AlisonMaciel/AlisonMaciel/output/github-contribution-grid-snake.svg)
 
