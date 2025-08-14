@@ -1,4 +1,7 @@
 ## Olá, eu sou Alison 👋
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo+ao+meu+perfil" alt="Typing SVG" /></a>
+</div>
 
 - 🔭 Atualmente sou um intusiasta no ecossistema front-end em constante evolução
 - 🌱 Aprofundando meus conhecimentos em NextJS
@@ -49,9 +52,9 @@
 </div>
 
 
-<picture align="center
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlisonMaciel/AlisonMaciel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlisonMaciel/AlisonMaciel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlisonMaciel/AlisonMaciel/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlisonMaciel/AlisonMaciel/output/github-contribution-grid-snake.svg">
 </picture>
 
