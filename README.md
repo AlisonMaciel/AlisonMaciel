@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlisonMaciel/AlisonMaciel/output/github-contribution-grid-snake.gif?v=1" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AlisonMaciel/AlisonMaciel/output/github-contribution-grid-snake.gif />
 </div>
 
 
