@@ -8,7 +8,7 @@
 - 📫 Entre em contato comigo: alisonbetini27@gmail.com
 
 <p>
-Sou um desenvolvedor com foco em tecnologias modernas como ReactJS, TypeScript, JavaScript, Vite, Bibliotecas (Shadcn/UI | Recharts | Radix/UI) Styled-Components, Taiwilnd, CSS Modules. Tenho experiência prática em projetos full stack, mas meu principal objetivo hoje é me especializar no ecossistema front-end, explorando profundamente Next.js, UI interativa e performance.
+Sou um desenvolvedor com foco em tecnologias modernas como ReactJS, TypeScript, JavaScript, Vite, Bibliotecas (Shadcn/UI | Recharts | Radix/UI) Styled-Components, Tailwind, CSS Modules. Tenho experiência prática em projetos full stack, mas meu principal objetivo hoje é me especializar no ecossistema front-end, explorando profundamente Next.js, UI interativa e performance.
 </p>
 
 <div style="flex" align="center">
